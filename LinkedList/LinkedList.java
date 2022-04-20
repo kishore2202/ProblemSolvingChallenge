@@ -1,5 +1,6 @@
 package practice;
 
+//printing elements in node using linked list
 public class LinkedList {
 public static Node<Integer> creatingList()
 {
