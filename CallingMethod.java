@@ -10,6 +10,8 @@ public static void method(int a,int b)
 		// TODO Auto-generated method stub
 		CallingMethod obj=new CallingMethod();
 		obj.method(2, 6);
+		
+		
 	}
 
 }
