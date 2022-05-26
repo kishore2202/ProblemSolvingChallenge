@@ -23,6 +23,7 @@ public class ArmstrongNumber {
 		{
 			System.out.println("Not a Armstrong number");
 		}
+
 	}
 	
 }
