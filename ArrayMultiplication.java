@@ -18,3 +18,4 @@ public class ArrayMultiplication {
 		    }
 		}
 }
+bjdi
