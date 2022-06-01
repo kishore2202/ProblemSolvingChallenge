@@ -2,10 +2,12 @@ package practice;
 
 public abstract class AbstractionDemo {
 
-	public void call() {
+	public void call() 
+        {
 		System.out.println("Calling....");
 	}
-	public void record() {
+	public void record() 
+        {
 		System.out.println("Recording.....");
 	}
 
