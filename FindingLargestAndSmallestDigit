@@ -1,1 +1,21 @@
+public class FindingLargestAndSmallestDigit {
 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n1=4563;
+		int n2=6846;
+		int n3=62310;
+		int l=0;
+		int s=9;
+		while(n3!=0)
+		{
+			int r=n3%10;
+			l=Math.max(r, l);
+			s=Math.min(r, s);
+			n3=n3/10;
+		}
+		System.out.println("Smallest digit is : "+s);
+		System.out.println("Largest digit is : "+l);
+	}
+
+}
