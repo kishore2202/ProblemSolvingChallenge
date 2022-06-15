@@ -13,6 +13,7 @@ public class EncapsulationDemo {
 }
 
 class Student extends EncapsulationDemo{
+
 	private String name;
 	private int roll;
 	Student(String name,int roll)
