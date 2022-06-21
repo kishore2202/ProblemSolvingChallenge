@@ -25,6 +25,7 @@ public static Node<Integer> takeInput()
 	}
 	return head;
 }
+
 public static Node<Integer> insertNode(Node<Integer> head,int elem,int pos)
 {
 	if(head==null && pos>0)
