@@ -17,5 +17,4 @@ public class ArrayListDemo {
 			System.out.println(i);
 		}
 	}
-
 }
