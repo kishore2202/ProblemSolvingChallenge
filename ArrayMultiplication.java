@@ -1,8 +1,6 @@
 package Array;
 
 public class ArrayMultiplication {
-
-	
 		public static void mul(int [] arr)
 		{
 		    for(int i=0;i<6;i++)
