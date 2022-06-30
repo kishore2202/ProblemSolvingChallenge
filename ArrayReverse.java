@@ -14,8 +14,7 @@ public class ArrayReverse {
 	        for (int k = 0; k < n; k++) {
 	            System.out.print(b[k]+" ");
 	        } 
-	    }
-
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int arr[]= {1,2,3,4,5};
