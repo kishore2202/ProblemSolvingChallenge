@@ -16,5 +16,6 @@ public abstract class AbstractionDemo {
 	abstract class Abc extends AbstractionDemo{
 
 	abstract public void msg();
+
 }
 }
