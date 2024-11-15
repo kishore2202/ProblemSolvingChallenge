@@ -18,6 +18,13 @@ public class ElementsRemoval {
         }
 		return total;
 	}
+	/*
+ 		int sum=0;
+		for(int i=0;i<A.length;i++)
+		{
+			sum+=(A.length-i)*A[i];
+		}
+	*/
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr= {5,4,3,2,1};
